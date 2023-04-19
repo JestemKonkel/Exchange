@@ -1,5 +1,5 @@
 # Web Service which fetch data from ECB (European Central Bank)
-
+        !!!Currently under working on changing database to MongoDB!!!
 After collecting data user can send a request with basic parameters (Currency From, Currency To, Date) and response will be a rate for found exchange
 
 Some of exchange rate can't be found because currency doesn't exist for specific dates. For this situation user will be informed by text information with description.
